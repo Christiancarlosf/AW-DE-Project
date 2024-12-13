@@ -1,0 +1,63 @@
+[
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Returns.csv",
+        "AW_sink_folder" : "Returns",
+        "AW_sink_file" : "returns.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Calendar.csv",
+        "AW_sink_folder" : "Calendar",
+        "AW_sink_file" : "calendar.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Customers.csv",
+        "AW_sink_folder" : "Customers",
+        "AW_sink_file" : "customers.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Products.csv",
+        "AW_sink_folder" : "Products",
+        "AW_sink_file" : "products.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Product_Categories.csv",
+        "AW_sink_folder" : "Product_Categories",
+        "AW_sink_file" : "product_categories.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Product_Subcategories.csv",
+        "AW_sink_folder" : "Product_Subcategories",
+        "AW_sink_file" : "product_subcategories.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Sales_2015.csv",
+        "AW_sink_folder" : "Sales_2015",
+        "AW_sink_file" : "sales_2015.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Sales_2016.csv",
+        "AW_sink_folder" : "Sales_2016",
+        "AW_sink_file" : "sales_2016.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Sales_2017.csv",
+        "AW_sink_folder" : "Sales_2017",
+        "AW_sink_file" : "sales_2017.csv"
+    },
+
+    {
+        "AW_rel_url" : "Christiancarlosf/AW-DE-Project/refs/heads/main/Data/AdventureWorks_Territories.csv",
+        "AW_sink_folder" : "Territories",
+        "AW_sink_file" : "territories.csv"
+
+    }
+
+]
